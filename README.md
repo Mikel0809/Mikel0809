@@ -40,7 +40,7 @@
 
 I believe in **continuous learning** and **knowledge sharing** in the data world. This GitHub is my space to:
 
-- 🚀 **Build interesting projects** that answer insteresting questions or solve real-world problems
+- 🚀 **Build projects** that answer insteresting questions or solve real-world problems
 - 📚 **Learn and experiment** with new technologies and approaches  
 - 🤝 **Share my perspective** on data engineering and analytics
 - 🔄 **Iterate and improve** based on community feedback

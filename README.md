@@ -51,7 +51,7 @@ My long-term goal is to create a portfolio of projects that showcase the evoluti
 
 ## ☎️ Want to know more about me?
 
-🔗 [Connect with me on LinkedIn!](https://linkedin.com/in/mikel-garcia-prats)  
+🔗 [Connect with me on LinkedIn!](https://www.linkedin.com/in/mikel-garcia-prats-080920/)  
 📨 Feel free to fork this repo or reach out for collaboration opportunities!
 
 *"Transforming data into decisions, one pipeline at a time"* 📊✨

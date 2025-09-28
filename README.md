@@ -28,7 +28,7 @@
 **Cloud & Data Infrastructure**: Google Cloud Platform (GCP), Amazon Web Services (AWS), BigQuery, Redshift.
 **Visualization & BI Tools**: Looker, LookML, Tableau, Data Studio, advanced Excel analytics.
 
-## 🧪 My latest project
+## 🧪 My latest projects
 
 🔓🏁 **[idealista-analytics-pipeline](https://github.com/Mikel0809/idealista-analytics-pipeline)**: End-to-end real estate investment analytics pipeline for southern Madrid. Extracts 1,000+ properties daily from Idealista API, calculates zone averages and price deviations, and automatically classifies investment opportunities. Built with Python, Apache Airflow, BigQuery, and dbt following modern data engineering practices.
 
